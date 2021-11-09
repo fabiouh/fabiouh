@@ -1,16 +1,24 @@
-### Hi there 👋
+# hello, i am fabian. welcome to my profile. 👋
+## about me 👤
+* based in vienna / austria
 
-<!--
-**fabiouh/fabiouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## current projects ⚙️
+* SPA for a party
+* SPA for a student association
+* management app
+* PD, MD, FD, ... apps for GTA Roleplay Servers
+* truelife-rp.eu (german gta-v roleplay server)
 
-Here are some ideas to get you started:
+## experience 💫
+* started with 2d/3d design in 2014
+* corporate design since 2018
+* ui/ux design since 2019
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* started with java in 2017
+* web apps with html / css / php since 2020
+* c# since 2018
+* started with typescript in 2020
+* react app development since 2020
+
+## contact me 📣
+discord: fabiouh#1337
