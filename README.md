@@ -1,6 +1,7 @@
 # hello, i am fabian. welcome to my profile. 👋
 ## about me 👤
 * based in vienna / austria
+* studing medical computer science @ TUW
 
 ## current projects ⚙️
 * SPA for a party
